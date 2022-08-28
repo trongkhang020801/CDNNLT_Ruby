@@ -2,7 +2,7 @@
 
 puts "Xin chào - Nguyễn Trọng Khang - 1911505310131"
 
-#Yeu cau 2: Nhập 1 số từ bàn phím, in số đó ra
+#Yeu cau 2: Nhập 1 số từ bàn phím va xuat ra man hinh
 
 puts "Nhap vao 1 so: "
 number = gets.to_i
