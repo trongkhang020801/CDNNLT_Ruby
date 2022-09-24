@@ -1,4 +1,4 @@
-#Yeu cau 1: Viet cau lenh "Xin chào" + tên SV + MSV
+#Yeu cau 1: Viet cau lenh hien thi "Xin chào" + tên SV + MSV
 
 puts "Xin chào - Nguyễn Trọng Khang - 1911505310131"
 
